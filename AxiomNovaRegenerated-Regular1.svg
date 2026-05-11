@@ -1,0 +1,370 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20251009 at Sun May 10 19:30:57 2026
+ By doran
+Copyright (c) 2026, doran
+</metadata>
+<defs>
+<font id="AxiomNovaRegenerated-Regular" horiz-adv-x="520" >
+  <font-face 
+    font-family="AxiomNova Regenerated"
+    font-weight="420"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    x-height="510"
+    cap-height="700"
+    bbox="-4 -180 1129 785"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+0020-007A"
+  />
+<missing-glyph horiz-adv-x="364" 
+d="M66 33h199v600h-199v-600zM33 0v666h265v-666h-265z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="364" 
+d="M66 33h199v600h-199v-600zM33 0v666h265v-666h-265z" />
+    <glyph glyph-name="uni0000" horiz-adv-x="579" 
+d="M199 746h126v-8h42v-9h25v-8h26v-9h8v-8h17v-9h9v-8h8v-8h8v-17h9v-17h8v-26h9v-84h-9v-25h-8v-17h-9v-8h-8v-9h-8v-17h-9v-8h-8v-9h-9v-8h-17v-8h-8v-9h-9v-8h-8v-9h-17v-8h-8v-9h-9v-8h-8v-9h-9v-8h-8v-8h-8v-9h-9v-17h-8v-17h-9v-50h-101v25h-8v59h8v17h9v17h8v8h8v9
+h9v8h8v9h9v8h8v9h9v8h8v8h8v9h17v8h9v9h8v8h9v9h8v8h8v8h9v9h8v8h9v17h8v59h-8v17h-9v8h-8v9h-17v8h-25v9h-118v-9h-34v-8h-17v-9h-25v-8h-17v-8h-9v-9h-8v118h25v9h26v8h25v9h51v8zM224 181h50v-8h17v-9h9v-8h8v-9h9v-34h8v-8h-8v-34h-9v-8h-8v-9h-17v-8h-76v8h-8v9h-9v8
+h-8v26h-9v33h9v17h8v17h17v9h17v8z" />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="420" 
+ />
+    <glyph glyph-name="exclam" unicode="!" horiz-adv-x="901" 
+d="M413 135h62v-9h17v-9h9v-8h9v-9h8v-61h-8v-18h-9v-8h-9v-9h-9v-9h-78v9h-9v9h-9v8h-9v9h-8v61h8v18h9v8h9v9h17v9zM500 188v8h-100v-8h-8v8h-9v9h9v458h-9v8h9l-4 107h123l-3 -590h-8z" />
+    <glyph glyph-name="quotedbl" unicode="&#x22;" horiz-adv-x="568" 
+d="M123 740h85v-12h24v-12h12v-12h12v-24h12v-145h-12v-37h-12v-24h-12v-12h-12v-24h-12v-12h-25v-12h-12v-12h-24v-12h-73v12h24v12h13v12h12v12h12v24h12v24h12v61h-12v12h-36v12h-13v12h-12v12h-12v25h-12v72h12v12h12v12h12v12h25v12zM354 740h84v-12h24v-12h12v-12h12
+v-24h12v-145h-12v-37h-12v-24h-12v-12h-12v-24h-12v-12h-24v-12h-12v-12h-24v-12h-72v12h24v12h12v12h12v12h12v24h12v24h12v61h-12v12h-36v12h-12v12h-12v12h-12v25h-12v72h12v12h12v12h12v12h24v12z" />
+    <glyph glyph-name="numbersign" unicode="#" horiz-adv-x="806" 
+d="M482 273v34h8v34h9v35h8v25h9v17h-214v-42h-8v-35h-9v-34h-8v-34h205zM661 700h9v-9h8v-8h-8v-26h-9v-34h-9v-34h-8v-34h-9v-34h-8v-26h94v-77h-120v-25h-8v-34h-9v-35h-8v-34h-9v-17h94v-77h-111v-8h-8v-34h-9v-43h-9v-26h-8v-34h-9v-42h-8v-9h-86v34h9v43h9v34h8v34h9
+v34h8v17h-205v-34h-8v-34h-9v-34h-8v-34h-9v-34h-8v-26h-94v17h8v34h9v34h8v35h9v34h8v34h9v8h-94v77h111v26h9v34h8v34h9v34h8v17h-94v69h-8v8h119v9h9v34h8v34h9v34h8v34h9v34h8v17h9v9h8v-9h77v-8h-8v-34h-9v-34h-8v-35h-9v-34h-8v-34h-9v-17h205v9h9v34h8v34h9v34h8v34
+h9v34h8v26h60v-9h17v9z" />
+    <glyph glyph-name="dollar" unicode="$" horiz-adv-x="725" 
+d="M89 196h8v-8h18v-9h17v-9h26v-8h26v-9h34v-9h61v-8h27l2 29h-8v8h-9v9h9v161h-4v9h-43v8h-26v9h-26v9h-17v8h-18v9h-17v9h-9v8h-8v9h-9v9h-8v8h-9v9h-9v17h-8v26h-9v95h9v35h8v17h9v9h9v8h8v9h9v9h8v8h9v9h17v8h18v9h26v9h26v8h43v9h18l-1 23h123v-23h59v-9h51v-8h35v-9
+h26v-121h-9v9h-26v8h-34v9h-35v9h-60v8h-5l3 -190h28v-8h26v-9h25v-9h26v-8h18v-9h17v-9h9v-8h17v-9h9v-9h8v-8h9v-18h8v-17h9v-17h9v-121h-9v-17h-9v-18h-8v-17h-9v-9h-8v-8h-9v-9h-9v-9h-8v-8h-18v-9h-8v-8h-18v-9h-26v-9h-34v-8h-39l1 -41c-239.333 0 -284.333 0 -135 0
+l2 32h-45v9h-61v8h-34v9h-35v9h-34v8h-9v61h9v60zM300 620h-21v-9h-26v-9h-9v-8h-8v-18h-9v-69h9v-8h8v-9h17v-9h26v-8h13v147zM434 144v9h18v9h17v8h9v9h8v9h9v17h8v52h-8v17h-9v9h-8v8h-18v9h-8v9h-26l3 -165h5zM426 317v-2v2z" />
+    <glyph glyph-name="percent" unicode="%" horiz-adv-x="637" 
+d="M219 7v8h-100v-8h-8v8h-9v9h9l211 452l-4 6l5 12l-1 -10l110 215h123l-328 -692h-8zM454 49l0.000976562 3h11v2c-0.666992 0 1.66602 0 6.99902 0v3h3v2h5v3h3v3h5v2h3v5h2v3h3v5h3v6h2v5h3v13h2v36h-2v10h-3v8h-2v8h-3v2h-3v6h-2v2h-3v3h-3v2h-2v3h-3v3h-2v2h-6v3h-7v2
+h-11v3h-38v-3h-13v-2c0.666992 0 -1 0 -5 0v-3h-6v-2h-5v-3h-3v-3h-2v-2h-3v-3h-3v-5h-2v-5h-3v-6h-2v-7h-3v-11h-2v-38h2v-13h3c0 0.666992 0 -1 0 -5h2v-8h3v-3h2v-5h3v-3h3v-2h2v-3h3v-3h5v-2h6v-3h5v-2h10v-3h41zM408.001 228h57v-3h10v-2h8v-3h8v-2h5v-3h5v-3h3v-2h5
+v-3h3v-2h2v-3h3v-2h2v-3h3v-3h2v-2h3v-3h3v-5h2v-3h3v-5h2v-8h3v-5h3v-10h2v-13h3v-34h-3v-15h-2v-8h-3v-8h-3v-5h-2v-5h-3v-3h-2v-5h-3v-3h-3v-2h-2v-3h-3v-3h-2v-2h-3v-3h-2v-2h-3v-3h-5v-2h-5v-3h-6v-3h-5v-2h-8v-3h-10v-2h-18v-3h-42v3h-12v2h-11v3h-8v2h-5v3h-5v3h-5v2
+h-3v3h-5v2h-3v3h-2v2h-3v3h-2v3h-3v2h-3v5h-2v6h-3v2h-2v5h-3v8h-3v8h-2v13h-3v47h3v10h2v8h3v8h3v5h2v5h3v3h2v5h3v2h3v3h2v3h3v2h2v3h3v2h2v3h6v2h5v3h2v3h8v2h8v3h8v2h13v3zM247.001 532v3h10v2h8v3h2v2h5v3h3v3h5v2h3v5h2v3h3v5h3c0 -0.666992 0 1 0 5h2v6h3v12h2v37h-2
+v10h-3v8h-2v8h-3v2h-3v6h-2v2h-3v3h-3v2h-2v3h-3v3h-2v2h-5v3h-8v2h-10v3h-39v-3h-13v-2h-5v-3h-6v-2h-5v-3h-3v-3h-2v-2h-3v-3h-2v-5h-3v-5h-3c0 0.666992 0 -1 0 -5h-2v-8h-3v-10h-2v-40h2v-12h3v-6h2v-7h3v-3h3v-5h2v-3h3v-2h2v-3h3v-1h3l2 -4h6v-3h5v-2h10v-3h42z
+M200.001 711h57v-3l9 -2l11 7l-2 -7v-3h8v-3h5v-2h5v-3h3v-2h5v-3h3v-2h2v-3h3v-3h2v-2h3v-3h2v-2h3v-3h3v-5h2v-3h3v-5h2v-8h3v-5h3v-10h2v-13l3 1v-33l-3 -2v-15h-2v-8h-3v-8h-3v-5h-2v-5h-3v-3h-2v-5h-3v-3h-3v-2h-2v-3h-3v-2h-2v-3h-3v-3h-2v-2h-3v-3h-5v-2h-5v-3h-6v-2
+h-5v-3h-8v-3h-10v-2h-18v-3h-42v3h-12v2h-11v3h-8v3h-5v2h-5v3h-5v2h-3v3h-5v2h-3v3h-2v3h-3v2h-2v3h-3v2h-3l-2 9h-2l2 2h-3v2h-2v5h-3v8h-3v8h-2v13h-3v47h3v10h2v8h3v8h3v5h2v5h3v3h2v5h3v2h3v3h2v2h3v3h2v3h3v2h3v3h5v2h5v3h2v2h8v3h8v3h8v2h13v3z" />
+    <glyph glyph-name="ampersand" unicode="&#x26;" horiz-adv-x="824" 
+d="M397 83v9h25v8h25v8h17v9h16v8h9v17h-9v16h-8v9h-8v8h-9v8h-8v17h-8v8h-9v9h-8v8h-8v8h-9v17h-8v8h-8v9h-9v8h-8v8h-8v9h-9v8h-8v8h-8v9h-9v8h-8v8h-8v9h-25v-9h-17v-8h-17v-8h-8v-9h-17v-8h-8v-8h-8v-9h-9v-16h-8v-25h-8v-75h8v-17h8v-17h9v-8h8v-8h8v-9h9v-8h16v-8h34
+v-9h108zM589 358h108v-25h-8v-41h-9v-25h-8v-25h-8v-25h-9v-17h-8v-17h-8v-16h-9v-17h-8v-17h8v-8h9v-8h8v-9h8v-8h9v-8h8v-9h8v-16h9v-9h8v-8h8v-8h9v-9h16v-8h9v-8h-50v-9h-100v9h-9v8h-8v8h-8v17h-9v8h-25v-8h-8v-8h-17v-9h-16v-8h-25v-8h-25v-9h-34v-8h-158v8h-33v9h-25
+v8h-17v8h-17v9h-8v8h-8v8h-9v9h-8v8h-8v8h-9v9h-8v16h-8v17h-9v33h-8v84h8v25h9v16h8v17h8v17h9v8h8v8h8v9h9v8h8v8h8v9h17v8h8v8h17v9h25v8h25v17h-8v8h-9v8h-8v17h-8v8h-9v17h-8v25h-8v83h8v25h8v17h9v8h8v9h8v8h9v8h8v9h17v8h25v8h25v9h58v8h42v-8h83v-9h33v-8h25v-92
+h-25v9h-25v8h-41v8h-100v-8h-25v-8h-9v-9h-8v-8h-8v-8h-9v-59h9v-16h8v-17h8v-17h9v-8h8v-8h8v-9h9v-16h8v-9h8v-8h9v-8h8v-9h8v-8h9v-8h8v-9h8v-8h9v-8h8v-9h8v-8h9v-8h8v-9h8v-8h9v-8h8v-9h8v-8h9v-8h8v-17h8v-8h9v-9h8v-8h8v-8h9v25h8v16h8v42h9v58z" />
+    <glyph glyph-name="quotesingle" unicode="'" horiz-adv-x="568" 
+d="M235 740h85v-12h24v-12h12v-12h12v-24h12v-145h-12v-37h-12v-24h-12v-12h-12v-24h-12v-12h-25v-12h-12v-12h-24v-12h-73v12h24v12h13v12h12v12h12v24h12v24h12v61h-12v12h-36v12h-13v12h-12v12h-12v25h-12v72h12v12h12v12h12v12h25v12z" />
+    <glyph glyph-name="parenleft" unicode="(" 
+d="M205 685v15h14v-7h74v-15h-7v-7h-8v-8h-7v-15h-7v-7h-8v-15h-7v-7h-8v-15h-7v-15h-7v-14h-8v-15h-7v-22h-7v-15h-8v-29h-7v-22h-7v-52h-8v-147h8v-45h7v-29h7v-22h8v-22h7v-15h7v-15h8v-14h7v-8h7v-15h8v-14h7v-8h8v-14h7v-8h7v-15h8v-7h7v-15h-88v-7h-8v7h-7v15h-7v7h-8
+v15h-7v8h-8v14h-7v8h-7v14h-8v15h-7v8h-7v14h-8v22h-7v15h-8v15h-7v29h-7v30h-8v37h-7v154h7v45h8v29h7v22h7v15h8v15h7v14h8v15h7v15h7v7h8v15h7v7h7v15h8v7h7v15h8v8h7v7h7v7h8z" />
+    <glyph glyph-name="parenright" unicode=")" 
+d="M72 685v15h15v-7h7v7h74v-7h7v-8h8v-7h7v-15h7v-7h8v-8h7v-14h7v-8h8v-14h7v-8h7v-15h8v-14h7v-8h8v-22h7v-14h7v-23h8v-22h7v-37h7v-191h-7v-44h-7v-30h-8v-22h-7v-15h-7v-22h-8v-14h-7v-15h-8v-15h-7v-7h-7v-15h-8v-7h-7v-15h-7v-8h-8v-7h-7v-7h-7v-8h-8v-7h-51v7h-45
+v8h8v7h7v7h7v8h8v15h7v14h8v8h7v14h7v8h8v15h7v14h7v15h8v15h7v22h8v22h7v37h7v206h-7v37h-7v29h-8v23h-7v14h-8v22h-7v15h-7v15h-8v7h-7v15h-7v15h-8v7h-7v7h-8v15h-7v8h-7v7h-8v7h-7z" />
+    <glyph glyph-name="asterisk" unicode="*" horiz-adv-x="921" 
+d="M416 525h76v-79l58 57l54 -54c0 0.666992 -19.333 -18.333 -58 -57h99v-77h-39v7h-63l74 -75l-54 -55l-27 28l5 4l-49 49v-98h-76v86l-60 -59l-54 54l59 59h-66v7h-13v-7h-19v77h101l-48 48l4 5l-9 9l-4 -5l-14 14l54 54c0.666992 0 23.667 -22.667 69 -68v76z" />
+    <glyph glyph-name="plus" unicode="+" horiz-adv-x="921" 
+d="M416 525l76 -0.000976562c0 0.666992 0 -43.666 0 -132.999h153v-77h-39v7h-95v-7h-6v7h-7v-7h-6v-140h-76v140h-121v7h-13v-7h-19v77h153v133z" />
+    <glyph glyph-name="comma" unicode="," horiz-adv-x="568" 
+d="M235 357h85v-12h24v-12h12v-12h12v-25h12v-144h-12v-36h-12v-24h-12v-12h-12v-24h-12v-13h-25v-12h-12v-12h-24v-12h-73v12h24v12h13v12h12v13h12v24h12v24h12v60h-12v12h-36v12h-13v12h-12v12h-12v24h-12v72h12v13h12v12h12v12h25v12z" />
+    <glyph glyph-name="hyphen" unicode="-" horiz-adv-x="1171" 
+d="M862 438h96v-165h-759v165h580v0h83v0z" />
+    <glyph glyph-name="period" unicode="." horiz-adv-x="901" 
+d="M413 207h62v-9h17v-9h9v-8h9v-9h8v-61h-8v-18h-9v-8h-9v-9h-9v-9h-78v9h-9v9h-9v8h-9v9h-8v61h8v18h9v8h9v9h17v9z" />
+    <glyph glyph-name="slash" unicode="/" 
+d="M156 40v8h-100v-8h-8v8h-9v9h9l209 452h-9v8h9l112 215h123l-328 -692h-8z" />
+    <glyph glyph-name="zero" unicode="0" horiz-adv-x="770" 
+d="M430 94v8h26v9h17v9h8v8h17v9h9v17h8v8h9v17h8v17h9v26h9v43h8v162h-8v43h-9v34h-9v17h-8v8h-9v17h-8v9h-9v8h-8v9h-17v8h-9v9h-25v9h-103v-9h-26v-9h-17v-8h-8v-9h-17v-17h-9v-8h-8v-9h-9v-17h-8v-25h-9v-35h-8v-68h-9v-85h9v-60h8v-26h9v-25h8v-17h9v-17h8v-9h9v-8h8
+v-9h9v-8h8v-9h17v-9h35v-8h85zM345 700h94v-9h42v-8h34v-9h17v-8h18v-9h8v-8h17v-9h9v-8h8v-9h9v-8h8v-9h9v-17h8v-9h9v-17h8v-17h9v-17h8v-25h9v-34h9v-43h8v-154h-8v-51h-9v-34h-9v-26h-8v-17h-9v-17h-8v-17h-9v-9h-8v-17h-9v-8h-8v-9h-9v-8h-8v-9h-17v-8h-9v-9h-17v-8
+h-17v-9h-26v-8h-34v-9h-171v9h-25v8h-26v9h-17v8h-8v9h-17v8h-9v9h-9v8h-8v9h-9v8h-8v17h-9v9h-8v17h-9v17h-8v17h-9v17h-8v34h-9v35h-8v76h-9v43h9v85h8v35h9v25h8v26h9v17h8v17h9v8h8v18h9v8h8v9h9v8h8v9h9v8h9v9h17v8h8v9h17v8h26v9h25v8h52v9z" />
+    <glyph glyph-name="one" unicode="1" 
+d="M214 700h97v-700h-124v567h-18v-9h-17v-9h-18v-8h-18v-9h-17v-9h-18v-9h-9v133h18v9h26v9h27v8h18v9h17v9h36v9z" />
+    <glyph glyph-name="two" unicode="2" horiz-adv-x="633" 
+d="M219 700h112v-9h43v-8h35v-9h17v-9h18v-8h17v-9h9v-8h8v-9h9v-9h8v-8h9v-18h9v-8h8v-18h9v-34h9v-87h-9v-43h-9v-17h-8v-17h-9v-26h-9v-9h-8v-17h-9v-9h-8v-9h-9v-17h-9v-8h-8v-9h-9v-9h-9v-8h-8v-9h-9v-9h-9v-8h-8v-9h-9v-9h-9v-8h-17v-9h-8v-9h-9v-8h-9v-9h-17v-8h-9
+v-9h-17v-9h-9v-8h-8v-9h-18v-9h-8v-8h302v-104h-466v9h-9v8h9v69h-9v9h9v9h8v8h9v9h9v9h17v8h8v9h9v9h9v8h8v9h18v8h8v9h9v9h9v8h8v9h9v9h17v8h9v9h8v9h9v8h9v9h8v9h9v8h9v9h8v8h9v9h9v9h8v8h9v18h9v8h8v18h9v8h8v18h9v17h9v26h8v78h-8v17h-9v17h-9v9h-8v8h-17v9h-26v9h-61
+v8h-34v-8h-61v-9h-26v-9h-26v-8h-17v-9h-17v112h17v9h34v9h35v8h52v9z" />
+    <glyph glyph-name="three" unicode="3" horiz-adv-x="618" 
+d="M72 137h9v-9h17v-8h25v-9h34v-9h52v-8h59v8h60v9h26v9h17v8h8v9h9v8h8v26h9v68h-9v17h-8v9h-9v8h-8v9h-9v8h-17v9h-34v8h-137v94h94v9h43v8h26v9h17v8h8v9h9v8h8v18h9v68h-9v17h-8v8h-9v9h-8v8h-17v9h-35v9h-102v-9h-43v-9h-25v-8h-17v-9h-17v-8h-17v111h17v8h25v9h34v8
+h52v9h111v-9h42v-8h34v-9h17v-8h18v-9h17v-8h8v-9h9v-8h8v-9h9v-8h8v-9h9v-17h8v-26h9v-93h-9v-26h-8v-17h-9v-9h-8v-8h-9v-9h-8v-8h-9v-9h-8v-8h-17v-9h-18v-17h26v-9h17v-8h9v-9h17v-8h8v-9h9v-8h8v-17h9v-17h8v-26h9v-85h-9v-26h-8v-17h-9v-17h-8v-9h-9v-17h-8v-8h-17v-9
+h-9v-8h-8v-9h-17v-8h-26v-9h-17v-8h-43v-9h-179v9h-51v8h-34v9h-9v111z" />
+    <glyph glyph-name="four" unicode="4" horiz-adv-x="698" 
+d="M409 248v337h-9v-9h-9v-18h-9v-9h-9v-17h-9v-9h-8v-18h-9v-18h-9v-9h-9v-17h-9v-9h-9v-18h-9v-18h-8v-8h-9v-18h-9v-9h-9v-18h-9v-9h-9v-17h-9v-9h-9v-18h-8v-18h-9v-8h-9v-18h-9v-9h-9v-9h222zM356 700h177v-372h9v-80h71v-97h-71v-9h-9v-18h9v-124h-133v151h-319v-9h-9
+v9h-9v8h9v98h9v9h9v18h8v17h9v9h9v18h9v18h9v8h9v18h9v9h8v18h9v17h9v9h9v18h9v18h9v9h9v17h8v18h9v9h9v18h9v17h9v9h9v18h9v9h9v18h8v17h9v9h9v18h9v18h9v8h9v18h9v9z" />
+    <glyph glyph-name="five" unicode="5" horiz-adv-x="633" 
+d="M72 138h9v-8h26v-9h17v-9h34v-8h61v-9h60v9h61v8h17v9h17v9h9v8h9v9h8v9h9v25h9v70h-9v17h-9v17h-8v9h-9v8h-9v9h-17v9h-34v8h-199v-8h-35v112h9v225h9v43h8v-9h43v9h355v-104h-285v-8h-9v-78h-9v-78h147v-9h43v-8h26v-9h18v-8h17v-9h17v-9h9v-8h8v-9h9v-9h9v-8h8v-18h9
+v-17h9v-26h8v-129h-8v-26h-9v-18h-9v-17h-8v-9h-9v-8h-9v-9h-8v-9h-9v-8h-8v-9h-18v-8h-8v-9h-26v-9h-26v-8h-43v-9h-191v9h-43v8h-34v9h-9v112z" />
+    <glyph glyph-name="six" unicode="6" horiz-adv-x="695" 
+d="M388 94v8h34v9h17v9h9v8h8v9h9v17h8v17h9v102h-9v17h-8v17h-9v9h-8v8h-17v9h-18v8h-25v9h-94v-9h-26v-8h-25v-9h-17v-8h-17v-111h8v-26h9v-17h8v-17h9v-8h8v-9h9v-8h8v-9h17v-9h26v-8h77zM345 444h103v-9h34v-8h17v-9h17v-8h17v-9h9v-8h8v-9h9v-8h8v-9h9v-8h8v-18h9v-25
+h8v-26h9v-136h-9v-26h-8v-17h-9v-17h-8v-9h-9v-8h-8v-9h-9v-8h-8v-9h-9v-8h-9v-9h-17v-8h-17v-9h-25v-8h-34v-9h-154v9h-34v8h-17v9h-17v8h-17v9h-9v8h-9v9h-8v8h-9v9h-8v8h-9v9h-8v17h-9v17h-8v17h-9v17h-8v26h-9v42h-8v69h-9v51h9v77h8v43h9v34h8v17h9v25h8v17h9v9h8v17h9
+v9h8v17h9v8h8v9h9v8h17v9h9v8h17v9h17v8h17v9h25v8h52v9h145v-9h42v-8h35v-111h-17v8h-26v9h-34v9h-137v-9h-25v-9h-18v-8h-17v-9h-8v-8h-9v-9h-8v-8h-9v-17h-8v-9h-9v-17h-8v-25h-9v-35h-8v-51h8v9h17v8h17v9h17v8h17v9h26v8h34v9z" />
+    <glyph glyph-name="seven" unicode="7" horiz-adv-x="674" 
+d="M571 700h17v-88h-8v-8h-9v-26h-9v-18h-9v-18h-9v-17h-8v-17h-9v-18h-9v-18h-8v-26h-9v-17h-9v-18h-9v-17h-9v-18h-8v-17h-9v-18h-9v-26h-8v-17h-9v-18h-9v-18h-9v-17h-9v-17h-8v-18h-9v-18h-9v-26h-8v-17h-9v-18h-9v-17h-9v-18h-9v-17h-8v-18h-9v-26h-9v-17h-8v-9h-9v-9
+h-131v18h8v17h9v26h9v18h8v17h9v18h9v17h9v27h9v17h8v17h9v18h9v18h8v17h9v17h9v18h9v26h9v18h8v17h9v18h9v17h8v18h9v17h9v27h9v17h9v17h8v18h9v18h9v17h8v17h9v18h9v26h9v9h-341v-9h-9v9h-9v70h9v9h-9v17h9v9h481v-9h9v9z" />
+    <glyph glyph-name="eight" unicode="8" horiz-adv-x="704" 
+d="M396 401v9h26v8h17v9h9v8h8v9h9v26h8v59h-8v17h-9v17h-8v9h-9v8h-8v9h-18v9h-25v8h-68v-8h-35v-9h-17v-9h-17v-8h-8v-17h-9v-17h-8v-86h8v-8h9v-9h8v-8h9v-9h17v-8h25v-9h94zM405 94v8h26v9h17v9h8v8h9v9h8v8h9v26h8v68h-8v17h-9v17h-8v9h-9v8h-17v9h-17v8h-34v9h-86v-9
+h-34v-8h-17v-9h-17v-8h-8v-9h-9v-17h-8v-17h-9v-68h9v-26h8v-8h9v-9h8v-8h9v-9h17v-9h17v-8h128zM285 700h111v-9h52v-8h25v-9h26v-8h17v-9h8v-8h18v-9h8v-8h9v-9h8v-17h9v-17h8v-26h9v-93h-9v-26h-8v-17h-9v-9h-8v-8h-9v-9h-8v-8h-9v-9h-9v-8h-17v-17h17v-9h18v-9h8v-8h17
+v-9h9v-8h8v-9h9v-17h8v-17h9v-25h8v-103h-8v-25h-9v-18h-8v-8h-9v-17h-8v-9h-9v-8h-8v-9h-17v-8h-9v-9h-17v-8h-17v-9h-26v-8h-34v-9h-179v9h-34v8h-26v9h-17v8h-17v9h-17v8h-9v9h-8v8h-9v9h-8v8h-9v9h-8v17h-9v17h-8v26h-9v85h9v26h8v17h9v8h8v17h9v9h8v8h9v9h17v8h8v9h17
+v9h18v8h-9v9h-17v8h-9v9h-8v8h-9v9h-8v8h-9v17h-8v17h-9v26h-8v68h8v34h9v18h8v8h9v17h8v9h9v8h8v9h9v8h17v9h17v8h17v9h26v8h42v9z" />
+    <glyph glyph-name="nine" unicode="9" horiz-adv-x="704" 
+d="M405 350v9h26v8h25v9h17v8h9v103h-9v25h-8v26h-9v8h-8v17h-9v9h-8v8h-18v9h-17v9h-25v8h-69v-8h-25v-9h-17v-9h-17v-8h-9v-9h-8v-17h-9v-17h-8v-34h-9v-34h9v-43h8v-17h9v-8h8v-9h9v-8h8v-9h17v-8h26v-9h111zM115 137h8v-9h17v-8h17v-9h26v-9h43v-8h94v8h42v9h26v9h17v8
+h17v9h9v8h8v9h9v17h8v8h9v26h8v34h9v51h-17v-8h-9v-9h-25v-8h-35v-9h-42v-8h-77v8h-43v9h-25v8h-17v9h-18v8h-17v9h-8v8h-9v9h-8v8h-9v9h-8v8h-9v18h-8v8h-9v26h-8v34h-9v94h9v34h8v17h9v17h8v9h9v17h8v8h9v9h8v8h9v9h17v8h8v9h18v8h25v9h26v8h42v9h103v-9h43v-8h25v-9h26
+v-8h8v-9h17v-8h9v-9h8v-8h9v-9h9v-8h8v-9h9v-8h8v-18h9v-17h8v-17h9v-17h8v-34h9v-51h8v-154h-8v-51h-9v-34h-8v-26h-9v-17h-8v-17h-9v-17h-8v-8h-9v-18h-8v-8h-9v-9h-9v-8h-8v-9h-9v-8h-8v-9h-17v-8h-9v-9h-17v-8h-25v-9h-18v-8h-42v-9h-162v9h-52v8h-25v9h-17v94h-9v8h9v9
+z" />
+    <glyph glyph-name="colon" unicode=":" horiz-adv-x="646" 
+d="M329 529h62v-9h17v-9h9v-8h9v-9h8v-61h-8v-18h-9v-8h-9v-9h-9v-9h-78v9h-9v9h-9v8h-9v9h-8v61h8v18h9v8h9v9h17v9zM329 256h62v-9h17v-9h9v-8h9v-9h8v-61h-8v-18h-9v-8h-9v-9h-9v-9h-78v9h-9v9h-9v8h-9v9h-8v61h8v18h9v8h9v9h17v9z" />
+    <glyph glyph-name="semicolon" unicode=";" horiz-adv-x="646" 
+d="M321 289h68v-10h19v-9h10v-10h9v-19h10v-116h-10v-29h-9v-19h-10v-10h-9v-19h-10v-10h-20v-10h-9v-9h-19v-10h-58v10h19v9h10v10h9v10h10v19h10v19h9v49h-9v9h-29v10h-10v9h-10v10h-9v20h-10v57h10v10h9v10h10v9h19v10zM329 498h62v-9h17v-9h9v-8h9v-9h8v-61h-8v-18h-9
+v-8h-9v-9h-9v-9h-78v9h-9v9h-9v8h-9v9h-8v61h8v18h9v8h9v9h17v9z" />
+    <glyph glyph-name="equal" unicode="=" horiz-adv-x="1171" 
+d="M199 612h759v-165h-276v13h-27v-13h-28v13h-28v-13h-13v13h-277v-13h-110v165zM862 253h96c0 0.666992 0 -54.333 0 -165h-759v165h580v-13h83v13z" />
+    <glyph glyph-name="question" unicode="?" horiz-adv-x="579" 
+d="M199 746h126v-8h42v-9h25v-8h26v-9h8v-8h17v-9h9v-8h8v-8h8v-17h9v-17h8v-26h9v-84h-9v-25h-8v-17h-9v-8h-8v-9h-8v-17h-9v-8h-8v-9h-9v-8h-17v-8h-8v-9h-9v-8h-8v-9h-17v-8h-8v-9h-9v-8h-8v-9h-9v-8h-8v-8h-8v-9h-9v-17h-8v-17h-9v-50h-101v25h-8v59h8v17h9v17h8v8h8v9
+h9v8h8v9h9v8h8v9h9v8h8v8h8v9h17v8h9v9h8v8h9v9h8v8h8v8h9v9h8v8h9v17h8v59h-8v17h-9v8h-8v9h-17v8h-25v9h-118v-9h-34v-8h-17v-9h-25v-8h-17v-8h-9v-9h-8v118h25v9h26v8h25v9h51v8zM224 181h50v-8h17v-9h9v-8h8v-9h9v-34h8v-8h-8v-34h-9v-8h-8v-9h-17v-8h-76v8h-8v9h-9v8
+h-8v26h-9v33h9v17h8v17h17v9h17v8z" />
+    <glyph glyph-name="at" unicode="@" 
+d="M388 469h6v-18h-6v-35h-6v-24h-6v-42h-6v-71h6v-6h18v6h12v5h12v6h6v6h6v6h6v6h6v12h6v12h6v18h6v83h-6v24h-6v12h-6v6h-6v12h-6v6h-6v6h-6v6h-6v6h-12v6h-12v6h-6v6h-12v6h-18v6h-18c0 -0.666992 0 1 0 5h-29v6h-46h-2h-28v-6h-30v-5c0.666992 0 -5 0 -17 0v-6h-12v-6
+h-12v-6h-12v-6h-12v-6h-6v-6h-6v-6h-6v-6h-6v-6h-6v-6h-6v-6h-6v-12h-6v-12h-6v-12h-6v-12h-6v-23h-6v-30h-6v-66h6v-24h6v-23h6v-12h6v-12h6v-6h6v-12h6v-6h6v-6h6v-6h6v-6h6v-6h12v-6h6v-6h12v-6h12v-6h12v-6h23c0 0.666992 0 -1 0 -5h42v-6h16h2h28v6
+c-0.666992 0 15 0 47 0v5h30v6h18v6h18c0 0.666992 0 -13 0 -41h-6v-6h6v-6h-6v-6h-18v-6h-24v-6h-24v-6h-35v-6h-34h-2h-52v6c0.666992 0 -11 0 -35 0v6h-18v6h-18v6h-12v6h-12v6h-12v6h-6v6h-12v6h-6v6h-6v6h-6v5h-6v6h-6v6h-6v6h-6v12h-6v6h-6v12h-6v12h-6v18h-6v12h-6
+v30h-6v113h6v29h6v18h6v12h6v12h6v18h6v6h6v12h6v6h6v12h6v6h6v6h6v6h6c0 -0.666992 0 3 0 11h6v6h12v6h6v6h6v6h12v6h6v6h12v6h12v6h18v6h18v6h23v6h52h2c-0.666992 0 26.333 0 81 0v-6h30v-6h18v-6h18v-6h12v-6h12v-6h12v-6h6v-6h6v-6h12v-6h6v-6h6v-5h6v-12h6v-6h6v-6h6
+v-12h6v-18h6v-18h6v-95h-6v-30h-6v-18h-6v-12h-6v-12h-6v-12h-6v-11h-6v-6h-6v-6h-6v-6h-6v-6h-6v-6h-6v-6h-6v-6h-12v-6h-6v-6h-18v-6h-18v-6h-36v6h-18v6h-6v6h-5v6h-6v12h-6v-6h-6v-6h-6v-6h-6v-6h-12v-6h-18v-6h-4h-2h-64v6c0.666992 0 -3 0 -11 0v6h-12v6h-6v6h-6v6h-6
+v6h-6v12h-6v12h-6v17h-6v84h6v18h6v12h6v12h6v11h6v6h6v6h6v6h6v6h12v6h11v6h18v6h40h2h22v-6h18v-6h12v-6h12v-6c-0.666992 0 1 0 5 0v-6h6v6h6v18h48v6zM257 267v6h24v6h12v5h12v6h6v24h6v48h6v36c-0.666992 0 1 0 5 0v6h-5v6h-18v6h-46h-2h-16v-6h-12v-6h-12v-6h-6v-6h-6
+v-12h-6v-18h-6v-60h6v-18h6v-5h6v-6h18v-6h28z" />
+    <glyph glyph-name="A" unicode="A" horiz-adv-x="894" 
+d="M565 257v9h-9v26h-9v18h-9v18h-8v18h-9v17h-9v27h-9v18h-9v17h-9v18h-9v18h-8v26h-9v18h-9v18h-9v26h-9v-8h-9v-27h-9v-27h-8v-17h-9v-18h-9v-18h-9v-26h-9v-18h-9v-18h-9v-26h-8v-18h-9v-18h-9v-18h-9v-17h-9v-18h257zM344 700h186v-27h8v-17h9v-18h9v-27h9v-17h9v-27h9
+v-18h9v-17h9v-27h8v-18h9v-17h9v-27h9v-18h9v-17h9v-18h9v-27h8v-17h9v-18h9v-18h9v-18h9v-26h9v-18h9v-18h8v-17h9v-27h9v-18h9v-17h9v-18h9v-27h9v-17h8v-18h9v-18h9v-18h9v-17h9v-18h-168v27h-9v17h-9v27h-9v26h-9v18h-9v27h-9v17h-354v-17h-9v-27h-9v-18h-9v-26h-9v-18
+h-8v-26h-9v-18h-9v-9h-133v9h9v18h9v17h9v27h8v18h9v17h9v18h9v27h9v17h9v18h9v18h8v18h9v26h9v18h9v18h9v17h9v18h9v27h8v17h9v18h9v18h9v26h9v18h9v18h9v17h9v18h8v27h9v18h9v17h9v18h9v27h9v17h9v18h8v35h-8v27z" />
+    <glyph glyph-name="B" unicode="B" horiz-adv-x="804" 
+d="M453 408v8h53v9h18v9h9v9h9v9h8v26h9v54h-9v26h-8v9h-9v9h-9v9h-18v9h-35v9h-266v-195h248zM515 106v9h18v9h9v9h8v9h9v9h9v17h9v27h9v53h-9v18h-9v9h-9v9h-9v8h-8v9h-27v9h-310v-204h310zM72 700h461v-9h44v-9h18v-9h18v-8h17v-9h9v-9h9v-9h9v-9h9v-18h9v-17h8v-27h9
+v-62h-9v-35h-8v-18h-9v-18h-9v-9h-9v-9h-9v-8h-9v-9h-17v-9h-9v-9h-9v-9h9v-9h17v-9h18v-8h9v-9h18v-9h9v-9h8v-9h9v-18h9v-17h9v-27h9v-115h-9v-27h-9v-17h-9v-9h-9v-9h-8v-9h-9v-9h-9v-9h-18v-9h-9v-8h-26v-9h-36v-9h-71v-9h-425v700z" />
+    <glyph glyph-name="C" unicode="C" horiz-adv-x="795" 
+d="M686 145h17v-111h-17v-8h-34v-9h-43v-8h-59v-9h-171v9h-51v8h-35v9h-25v8h-17v9h-17v8h-17v9h-9v8h-17v9h-9v8h-8v9h-9v8h-8v9h-9v17h-8v9h-9v17h-8v17h-9v17h-8v17h-9v34h-8v60h-9v102h9v51h8v35h9v25h8v17h9v17h8v9h9v17h8v8h9v9h8v9h9v8h8v9h9v8h9v9h17v8h17v9h8v8h17
+v9h26v8h25v9h35v8h51v9h196v-9h51v-8h43v-9h26v-119h-9v8h-25v9h-35v8h-42v9h-51v9h-111v-9h-60v-9h-26v-8h-17v-9h-17v-8h-17v-9h-9v-8h-17v-9h-8v-17h-9v-8h-8v-17h-9v-17h-8v-18h-9v-42h-8v-120h8v-42h9v-26h8v-17h9v-9h8v-17h9v-8h8v-9h9v-8h17v-9h8v-8h18v-9h25v-8h26
+v-9h60v-9h93v9h60v9h34v8h34v9h26v8z" />
+    <glyph glyph-name="D" unicode="D" horiz-adv-x="875" 
+d="M400 106v9h80v9h35v9h18v9h17v9h18v8h9v9h9v9h9v9h9v9h9v9h8v18h9v26h9v36h9v132h-9v45h-9v17h-9v18h-8v18h-9v9h-9v9h-9v9h-9v8h-9v9h-18v9h-17v9h-27v9h-26v9h-275v-479h62v-9h133zM72 700h434v-9h44v-9h27v-9h27v-8h17v-9h18v-9h18v-9h18v-9h8v-9h9v-9h9v-8h9v-9h9v-9
+h9v-18h9v-9h8v-17h9v-18h9v-27h9v-26h9v-62h9v-116h-9v-44h-9v-35h-9v-18h-9v-27h-9v-17h-8v-9h-9v-18h-9v-9h-9v-9h-9v-9h-9v-8h-9v-9h-17v-9h-9v-9h-18v-9h-18v-9h-17v-9h-27v-8h-27v-9h-53v-9h-97v-9h-328v700z" />
+    <glyph glyph-name="E" unicode="E" horiz-adv-x="698" 
+d="M72 700h523v-106h-390v-186h345v-98h-8v-9h-337v-195h408v-106h-45v9h-177v-9h-18v9h-79v-9h-222v700z" />
+    <glyph glyph-name="F" unicode="F" horiz-adv-x="671" 
+d="M72 700h514v-106h-372v-9v-195h319v-106h-319v-284h-133v9h-9v9h9v673h-9v9z" />
+    <glyph glyph-name="G" unicode="G" horiz-adv-x="829" 
+d="M447 384h299v-341h-17v-9h-26v-8h-34v-9h-51v-8h-51v-9h-188v9h-51v8h-26v9h-26v8h-17v9h-17v8h-17v9h-17v8h-8v9h-9v8h-9v9h-8v8h-9v9h-8v9h-9v8h-8v9h-9v17h-8v17h-9v17h-8v17h-9v34h-8v34h-9v162h9v35h8v25h9v26h8v17h9v17h8v8h9v17h8v9h9v9h8v8h9v9h8v8h9v9h17v8h9v9
+h17v8h17v9h17v8h25v9h35v8h42v9h222v-9h43v-8h43v-9h34v-8h17v-111h-17v8h-34v9h-26v8h-43v9h-51v9h-145v-9h-43v-9h-25v-8h-26v-9h-9v-8h-17v-9h-8v-8h-9v-9h-8v-8h-9v-9h-8v-17h-9v-8h-8v-26h-9v-34h-8v-137h8v-42h9v-18h8v-17h9v-17h8v-17h9v-8h8v-9h9v-8h8v-9h17v-8h18
+v-9h17v-8h25v-9h43v-9h128v9h43v9h25v162h-162v102z" />
+    <glyph glyph-name="H" unicode="H" horiz-adv-x="840" 
+d="M613 700h132v-682h9v-9h-9v-9h-8v9h-9v-9h-115v301h-399v-301h-9v9h-9v-9h-44v9h-9v-9h-62v9h-9v691h142v-292h399v292z" />
+    <glyph glyph-name="I" unicode="I" 
+d="M60 700h142v-9h-9v-53h9v-53h-9v-18h9v-266h-9v-35h9v-18h-9v-18h9v-8h-9v-9h9v-54h-9v-124h9v-8h-9v-9h9v-9h-9v-9h-124v9h-9v691z" />
+    <glyph glyph-name="J" unicode="J" horiz-adv-x="605" 
+d="M60 158h18v-9h17v-9h17v-9h27v-9h35v-8h157v8h18v9h17v9h9v9h9v9h8v26h9v26h9v490h131v-516h-9v-35h-8v-27h-9v-17h-9v-17h-8v-9h-9v-9h-9v-9h-9v-9h-9v-8h-17v-9h-17v-9h-18v-8h-26v-9h-53v-9h-122v9h-61v9h-36v8h-26v9h-26v123z" />
+    <glyph glyph-name="K" unicode="K" horiz-adv-x="822" 
+d="M550 700h178v-9h-9v-9h-9v-9h-9v-8h-18v-9h-8v-9h-9v-9h-9v-9h-18v-9h-9v-9h-9v-8h-8v-9h-18v-9h-9v-9h-9v-9h-9v-9h-9v-9h-9v-8h-17v-9h-9v-9h-9v-9h-9v-9h-9v-9h-9v-9h-17v-9h-9v-8h-9v-9h-9v-9h-18v-9h-8v-9h-9v-9h-9v-9h-9v-8h-9v-18h9v-9h9v-9h9v-9h9v-9h8v-17h9v-9
+h9v-9h9v-9h9v-9h9v-9h9v-8h8v-9h9v-9h9v-9h9v-9h9v-9h9v-9h9v-8h8v-18h9v-9h9v-9h9v-9h9v-9h9v-9h9v-8h9v-9h8v-9h9v-9h9v-9h9v-9h9v-9h9v-8h9v-9h8v-18h9v-9h9v-9h9v-9h9v-8h9v-9h9v-18h-9v9h-18v-9h-35v9h-9v-9h-89v9h-18v18h-9v8h-8v9h-9v9h-9v9h-9v9h-9v9h-9v9h-9v8h-8
+v9h-9v18h-9v9h-9v9h-9v9h-9v8h-9v9h-8v9h-9v9h-9v9h-9v9h-9v9h-9v9h-9v8h-8v18h-9v9h-9v9h-9v9h-9v9h-9v8h-9v9h-8v9h-9v9h-9v-9h-9v-9h-9v-9h-9v-8h-18v-9h-8v-9h-9v-266h-142v700h142v-284h9v9h17v9h9v9h9v9h9v9h9v9h9v8h17v9h9v9h9v9h9v9h9v9h18v9h8v9h9v8h9v9h9v9h18v9
+h9v9h8v9h9v9h9v8h9v9h9v9h18v9h8v9h9v9h9v9h9v8h18v9h9v9h8v9z" />
+    <glyph glyph-name="L" unicode="L" horiz-adv-x="646" 
+d="M60 700h133v-585h381v-9h9v-9h-9v-8h9v-62h-9v-9h9v-9h-9v-9h-9v9h-9v-9h-133v9h-319v-9h-44v700z" />
+    <glyph glyph-name="M" unicode="M" horiz-adv-x="1126" 
+d="M767 700h189v-27h8v-81h9v-98h9v-72h9v-81h9v-72h9v-72h9v-71h9v-72h9v-54h-143v63h-9v81h-9v89h-9v81h-9v90h-9v72h-9v98h-9v-27h-9v-18h-9v-26h-9v-27h-9v-18h-9v-27h-9v-18h-9v-27h-9v-18h-9v-27h-9v-18h-9v-27h-9v-27h-9v-18h-9v-27h-9v-27h-9v-18h-9v-26h-9v-27h-9
+v-18h-9v-27h-9v-27h-9v-18h-9v-27h-9v-9h-107v18h-9v27h-9v18h-9v27h-9v18h-9v27h-9v18h-9v26h-9v18h-9v18h-9v27h-9v18h-9v27h-9v18h-9v27h-9v18h-9v18h-9v27h-9v18h-9v18h-9v27h-9v18h-9v27h-9v18h-9v17h-9v9h-9v-71h-9v-54h-8v-63h-9v-54h-9v-72h-9v-71h-9v-54h-9v-63h-9
+v-45h-117v45h9v54h9v54h9v62h9v54h9v54h9v54h9v54h9v54h9v53h9v63h9v72h-9v27h188v-18h9v-27h9v-18h9v-27h9v-18h9v-18h9v-27h9v-18h9v-26h9v-18h9v-18h9v-27h9v-18h9v-27h9v-18h9v-18h9v-27h9v-18h9v-27h9v-18h9v-27h9v-27h9v-18h9v-9h9v27h9v18h9v27h9v18h8v27h9v18h9v27
+h9v27h9v18h9v27h9v18h9v27h9v18h9v27h9v26h9v18h9v27h9v27h9v18h9v27h9v27h9v18z" />
+    <glyph glyph-name="N" unicode="N" horiz-adv-x="804" 
+d="M595 700h124v-700h-9v9h-124v18h-9v8h-9v9h-9v9h-9v9h-8v18h-9v9h-9v8h-9v9h-9v18h-9v9h-9v9h-8v9h-9v17h-9v9h-9v9h-9v9h-9v18h-9v9h-8v8h-9v9h-9v18h-9v9h-9v9h-9v9h-9v17h-8v9h-9v9h-9v9h-9v18h-9v8h-9v9h-9v9h-8v9h-9v18h-9v9h-9v8h-9v9h-9v18h-9v9h-9v9h-8v17h-9v9
+h-9v9h-9v9h-9v-18h9v-62h-9v-407h9v-9h-9v-9h-9v9h-53v-9h-26v9h-9v-9h-18v700h142v-9h9v-9h8v-9h9v-8h9v-18h9v-9h9v-9h9v-18h9v-8h9v-9h8v-9h9v-18h9v-9h9v-9h9v-17h9v-9h9v-9h8v-9h9v-18h9v-9h9v-8h9v-18h9v-9h9v-9h8v-9h9v-17h9v-9h9v-9h9v-9h9v-18h9v-9h8v-8h9v-9h9
+v-18h9v-9h9v-9h9v-9h9v-17h8v-9h9v-9h9v-9h9v-18h9v-8h9v478zM595 222v-9h9v9h-9z" />
+    <glyph glyph-name="O" unicode="O" horiz-adv-x="915" 
+d="M521 104v8h34v9h26v9h9v8h17v9h9v9h17v8h9v17h8v9h9v17h9v18h8v17h9v43h9v121h-9v35h-9v26h-8v26h-9v8h-9v18h-8v8h-9v9h-9v8h-8v9h-9v9h-8v8h-18v9h-26v9h-34v8h-130v-8h-43v-9h-17v-9h-18v-8h-17v-9h-9v-9h-8v-8h-9v-9h-9v-17h-8v-17h-9v-18h-8v-26h-9v-34h-9v-130h9
+v-43h9v-17h8v-26h9v-9h8v-17h9v-9h9v-8h8v-9h9v-9h17v-8h18v-9h17v-9h34v-8h139zM365 700h190v-9h35v-8h26v-9h26v-9h17v-8h17v-9h9v-8h17v-9h9v-9h9v-8h8v-9h9v-9h8v-8h9v-9h9v-9h8v-17h9v-9h9v-17h8v-26h9v-17h9v-35h8v-43h9v-112h-9v-52h-8v-26h-9v-26h-9v-17h-8v-17h-9
+v-9h-9v-17h-8v-9h-9v-9h-9v-8h-8v-9h-9v-9h-8v-8h-9v-9h-9v-9h-17v-8h-17v-9h-18v-8h-17v-9h-26v-9h-34v-8h-61v-9h-138v9h-43v8h-35v9h-26v9h-17v8h-17v9h-18v8h-8v9h-18v9h-8v8h-9v9h-9v9h-8v8h-9v9h-9v17h-8v18h-9v8h-8v17h-9v26h-9v26h-8v44h-9v155h9v35h8v26h9v26h9v17
+h8v17h9v9h8v17h9v9h9v8h8v9h9v9h9v8h8v9h9v9h17v8h18v9h8v8h26v9h26v9h26v8h43v9z" />
+    <glyph glyph-name="P" unicode="P" horiz-adv-x="760" 
+d="M444 346v8h27v9h17v9h18v9h9v9h9v18h9v106h-9v18h-9v17h-9v9h-9v9h-17v9h-18v9h-44v9h-204v-248h230zM81 700h390v-9h44v-9h27v-9h17v-8h18v-9h9v-9h9v-9h18v-9h8v-9h9v-17h9v-9h9v-18h9v-27h9v-26h9v-107h-9v-35h-9v-18h-9v-17h-9v-18h-9v-9h-9v-9h-8v-9h-9v-9h-9v-8
+h-18v-9h-18v-9h-17v-9h-27v-9h-35v-9h-266v-230h-124v-9h-9v9h-9v9h9v664h-9v9h9v9z" />
+    <glyph glyph-name="Q" unicode="Q" horiz-adv-x="872" 
+d="M349 700h162v-8h41v-8h33v-8h16v-9h24v-8h8v-8h17v-8h8v-8h16v-8h8v-8h8v-9h9v-8h8v-8h8v-8h8v-16h8v-8h8v-17h8v-16h9v-16h8v-25h8v-32h8v-65h8v-41h-8v-65h-8v-33h-8v-16h-8v-16h-9v-17h-8v-16h-8v-16h-8v-8h-8v-8h-8v-8h-8v-9h-9v-8h-8v-8h-8v-8h8v-8h8v-8h9v-8h16v-9
+h8v-8h8v-8h8v-8h8v-8h9v-8h8v-8h8v-9h8v-8h-33v-8h-40v-8h-82v8h-8v8h-8v8h-8v9h-8v16h-8v8h-8v8h-9v-8h-32v-8h-41v-8h-130v8h-49v8h-24v8h-25v8h-16v8h-16v9h-17v8h-8v8h-16v8h-8v8h-8v8h-8v8h-9v9h-8v8h-8v8h-8v16h-8v8h-8v16h-8v17h-9v24h-8v25h-8v40h-8v139h8v32h8v25
+h8v24h9v16h8v8h8v17h8v16h8v8h8v8h8v8h9v9h8v8h8v8h8v8h16v8h8v8h17v8h16v9h24v8h33v8h41v8zM414 293h8v-8h8v-8h16v-8h17v-9h16v-8h16v-8h8v-8h17v-8h16v-8h8v-8h16v-9h8v-8h17v-8h8v8h8v8h8v9h8v16h8v8h8v16h9v25h8v40h8v98h-8v41h-8v24h-9v17h-8v16h-8v16h-8v8h-8v8h-8v8
+h-8v9h-8v8h-17v8h-16v8h-16v8h-33v8h-122v-8h-41v-8h-16v-8h-16v-8h-17v-8h-8v-9h-8v-8h-8v-8h-8v-8h-8v-16h-8v-16h-8v-25h-9v-32h-8v-123h8v-32h9v-25h8v-16h8v-16h8v-16h8v-9h8v-8h8v-8h8v-8h9v-8h16v-8h16v-8h16v-8h33v-9h106v9h16v8h-8v16h-8v8h-8v16h-8v8h-9v17h-8v16
+h-8v8h-8v16h-8v17h-8v16z" />
+    <glyph glyph-name="R" unicode="R" horiz-adv-x="768" 
+d="M341 350v9h81v9h27v9h18v9h9v9h9v9h9v9h9v18h9v18h9v72h-9v17h-9v18h-18v9h-9v9h-18v9h-36v9h-215v-233h36v-9h98zM72 700h368v-9h63v-9h27v-9h27v-9h9v-9h18v-9h9v-9h8v-9h9v-9h9v-9h9v-18h9v-18h9v-36h9v-116h-9v-27h-9v-27h-9v-9h-9v-18h-9v-9h-9v-9h-8v-9h-18v-9h-9
+v-9h-18v-9h-18v-9h-27v-9h-9v-9h9v-9h9v-18h9v-9h9v-18h9v-9h9v-9h9v-17h9v-9h9v-18h9v-9h9v-9h8v-18h9v-9h9v-18h9v-9h9v-9h9v-18h9v-9h9v-18h9v-9h9v-9h-161v9h-9v18h-9v9h-9v18h-9v9h-9v18h-9v9h-9v18h-9v9h-9v18h-9v9h-9v18h-9v9h-9v17h-9v9h-9v18h-9v9h-9v18h-9v9h-9v9
+h-143v-260h-135v700z" />
+    <glyph glyph-name="S" unicode="S" horiz-adv-x="725" 
+d="M89 164h8v-8h18v-9h17v-9h26v-8h26v-9h34v-9h61v-8h103v8h52v9h18v9h17v8h9v9h8v9h9v17h8v52h-8v17h-9v9h-8v8h-18v9h-8v9h-26v8h-26v9h-35v8h-34v9h-35v9h-43v8h-26v9h-26v9h-17v8h-18v9h-17v9h-9v8h-8v9h-9v9h-8v8h-9v9h-9v17h-8v26h-9v95h9v35h8v17h9v9h9v8h8v9h9v9h8
+v8h9v9h17v8h18v9h26v9h26v8h43v9h199v-9h51v-8h35v-9h26v-121h-9v9h-26v8h-34v9h-35v9h-60v8h-104v-8h-43v-9h-26v-9h-9v-8h-8v-18h-9v-69h9v-8h8v-9h17v-9h26v-8h26v-9h35v-9h26v-8h43v-9h35v-8h26v-9h25v-9h26v-8h18v-9h17v-9h9v-8h17v-9h9v-9h8v-8h9v-18h8v-17h9v-17h9
+v-121h-9v-17h-9v-18h-8v-17h-9v-9h-8v-8h-9v-9h-9v-9h-8v-8h-18v-9h-8v-8h-18v-9h-26v-9h-34v-8h-43v-9h-173v9h-61v8h-34v9h-35v9h-34v8h-9v61h9v60z" />
+    <glyph glyph-name="T" unicode="T" horiz-adv-x="752" 
+d="M60 700h628v-117h-18v9h-27v-9h-18v9h-188v-547h9v-45h-144v592h-206v-9h-36v117z" />
+    <glyph glyph-name="U" unicode="U" horiz-adv-x="770" 
+d="M562 700h122v-508h-8v-34h-9v-27h-9v-17h-8v-9h-9v-17h-9v-9h-9v-9h-9v-9h-8v-9h-9v-8h-17v-9h-18v-9h-18v-8h-34v-9h-53v-9h-166v9h-44v9h-26v8h-27v9h-17v9h-17v8h-9v9h-9v9h-9v9h-9v9h-8v17h-9v17h-9v18h-8v26h-9v53h-9v481h131v-472h9v-36h9v-17h9v-17h8v-9h9v-9h9
+v-9h8v-9h27v-8h43v-9h106v9h34v8h18v9h18v9h8v9h9v17h9v18h8v26h9v44h9v446z" />
+    <glyph glyph-name="V" unicode="V" horiz-adv-x="911" 
+d="M700 700h126v-27h-9v-18h-9v-18h-9v-27h-9v-18h-9v-18h-9v-18h-9v-27h-9v-17h-9v-18h-9v-27h-9v-18h-9v-18h-9v-27h-9v-18h-9v-18h-9v-27h-9v-18h-9v-18h-9v-18h-9v-27h-9v-18h-9v-18h-9v-27h-9v-18h-9v-17h-8v-18h-9v-27h-9v-18h-9v-18h-9v-27h-9v-18h-9v-18h-9v-18
+h-162v9h-9v27h-9v27h-9v18h-9v27h-9v18h-9v27h-9v18h-9v17h-9v27h-9v18h-9v18h-9v18h-9v27h-8v18h-9v18h-9v27h-9v18h-9v18h-9v27h-9v18h-9v18h-9v27h-9v18h-9v18h-9v26h-9v18h-9v18h-9v27h-9v18h-9v18h-9v18h-9v18h-9v18h153v-9h9v-18h9v-27h8v-18h9v-18h9v-27h9v-18h9v-18
+h9v-26h9v-18h9v-27h9v-18h9v-18h9v-18h9v-27h9v-18h9v-18h9v-27h9v-18h9v-18h9v-27h9v-18h9v-27h9v-18h9v-27h9v-17h9v-27h9v18h9v18h9v17h9v27h9v18h9v18h9v18h9v27h9v18h9v18h9v27h9v18h9v27h9v18h9v27h8v18h9v18h9v27h9v17h9v27h9v18h9v27h9v27h9v18h9v27h9v18h9v9z" />
+    <glyph glyph-name="W" unicode="W" horiz-adv-x="1200" 
+d="M1118 725h11v-32h-11v-32h-11v-34h-11v-21h-11v-33h-11v-32h-10v-22h-11v-33h-11v-32h-11v-22h-11l-9 -32h-2v-33h-11v-21h-11v-34h-11v-32h-11v-32h-10v-22h-12v-32h-11v-34h-11v-21h-11v-33h-1l-4 -48l-162 -2l3 61h-11v32h-11v34h-11v21h-10v33h-11v32h-11v33h-11v33
+h-11v32h-10v33h-12v32h-11v32h-11v11h-11v-21h-10v-33h-11v-32h-11v-22h-11v-32h-11c0 0.666992 0 -10.333 0 -33h-10v-22h-11v-32h-11v-33h-11c0 0.666992 0 -6.33301 0 -21h-11v-34h-11v-32h-11v-77l-8 -4l1 6l-142 -2l-3 55h-11v33h-11v32h-10v33h-11v22h-11v32h-11v33
+h-11v21h13l-11 34h-11v32h-11v32h-11v33h-11v21h-11v34h-11v32h-11v32h-11l-10 50v15h-4l-7 34l5 -34h-5v34h-11l-11 32v22h151v-33h11v-44h11v-32h10v-33h11v-43h11v-32h12v-34h10v-32h11v-43h11v-33h11v-33h11l11 -32h-1v-22h11v33h11v33h11v21h11v33h10v32h11v33h11v32
+h11v33c-0.666992 0 3 0 11 0v33h11v32h11v32h11v34h11v32h10v33h11v10h65h33h11h11h5h-5v-10h11v-33h11v-32h10v-34h11v-32h11v-32h11v-33h11v-33h10v-32h11v-44h11v-32h11v-32h12v-44h10v-33h11v22h11v32h11v33h11v33h10v21h11v33h11v32h11c0 -0.666992 0 10.333 0 33h11
+v33h10v32h11v33h11v32h12v33h10v33h11v21h22v-10c-0.666992 0 36.333 0 111 0v10zM626 715v4l-43 -4h43zM659 715h11v9l-11 -1v-8zM144 627h2l4 -15v-17z" />
+    <glyph glyph-name="X" unicode="X" horiz-adv-x="867" 
+d="M569 700h157v-9h-9v-9h-9v-19h-10v-9h-9v-9h-9v-9h-9v-19h-10v-9h-9v-9h-9v-19h-9v-9h-9v-18h-10v-10h-9v-9h-9v-18h-9v-9h-9v-10h-10v-9h-9v-18h-9v-9h-9v-19h-9v-9h-10v-9h-9v-10h-9v-18h-9v-9h-10v-9h10v-10h9v-18h9v-9h9v-9h10v-19h9v-9h9v-9h9v-19h9v-9h10v-9h9v-9
+h9v-19h9v-9h9v-9h10v-19h9v-9h9v-9h9v-18h9v-10h10v-9h9v-18h9v-9h9v-10h10v-9h9v-18h9v-10h9v-9h9v-18h10v-9h9v-10h9v-9h9v-9h-193v18h-9v10h-10v9h-9v18h-9v9h-9v10h-9v9h-10v18h-9v10h-9v9h-9v18h-10v9h-9v19h-9v9h-9v9h-9v19h-10v9h-9v9h-9v18h-9v10h-9v9h-10v-19h-9
+v-9h-9v-18h-9v-9h-9v-19h-10v-9h-9v-9h-9v-19h-9v-9h-10v-18h-9v-9h-9v-19h-9v-9h-9v-19h-10v-9h-9v-9h-9v-18h-9v-10h-9v-18h-157v9h9v19h9v9h10v18h9v9h9v10h9v18h9v9h10v10h9v18h9v9h9v19h10v9h9v9h9v18h9v10h9v9h10v18h9v9h9v19h9v9h9v9h10v19h9v9h9v18h9v10h9v18h10v9
+h9v9h-9v19h-10v9h-9v18h-9v10h-9v9h-9v18h-10v10h-9v9h-9v18h-9v9h-9v19h-10v9h-9v9h-9v19h-9v9h-9v9h-10v18h-9v10h-9v18h-9v9h-10v10h-9v18h-9v9h-9v19h-9v9h-10v9h185v-9h9v-9h9v-19h9v-9h9v-18h10v-10h9v-18h9v-19h9v-9h10v-18h9v-9h9v-19h9v-9h9v-18h10v-10h9v-18h9v18
+h9v10h9v9h10v18h9v9h9v19h9v9h9v9h10v19h9v9h9v18h9v10h10v9h9v18h9v9h9v10h9v18z" />
+    <glyph glyph-name="Y" unicode="Y" horiz-adv-x="647" 
+d="M114 127h25v-9h17v-8h26v-9h33v-8h144v8h17v9h16v8h17v9h9v16h8v17h9v26h8v84h-8v-9h-9v-8h-8v-8h-17v-9h-9v-8h-16v-9h-26v-8h-33v-9h-110v9h-34v8h-17v9h-17v8h-8v9h-8v8h-9v8h-8v9h-9v17h-8v17h-9v33h-8v363h127v-346h8v-17h8v-8h9v-9h8v-8h17v-8h110v8h25v8h17v9h8v8
+h17v9h9v8h8v329h-8v9h8v8h118v-540h-8v-25h-9v-25h-8v-9h-9v-17h-8v-8h-8v-9h-9v-8h-8v-8h-9v-9h-17v-8h-8v-9h-17v-8h-25v-9h-42v-8h-169v8h-42v9h-26v8h-16v93h-9v9z" />
+    <glyph glyph-name="Z" unicode="Z" horiz-adv-x="749" 
+d="M651 579v-12h-12v-12h-12v-24h-12v-12h-12v-12h-12v-12h-12v-24h-12v-12h-12v-12h-12v-13h-12v-24h-12v-12h-13v-12h-12v-12h-12v-24h-12v-12h-12v-12h-12v-24h-12v-12h-12v-12h-12v-12h-12v-25h-12v-12h-12v-12h-12v-12h-12v-24h-12v-12h-13v-12h-12v-12h-12v-12h362
+l-1 -100l-594 -2l4 78h12v24h12v12h12v12h12v12h12v12h12v24h12v12h13v12h12v12h12v25h12v12h12v12h12v12h12v24h12v12h12v12h12v12h12v24h12v12h12v12h12v12h13v25h12v12h12v12h12v12h12v24h12v12h12v12h12v12h12v12h12v12h-374l-4 107l594 -2l1 -93h-12z" />
+    <glyph glyph-name="backslash" unicode="\" 
+d="M28 785v-8h100v8h8v-8h9v-9h-9l336 -679l-8 11l53 -110l-121 -1l-376 796h8z" />
+    <glyph glyph-name="grave" unicode="`" horiz-adv-x="568" 
+d="M201 739v-12h25v-12h12v-12h12v-13h12v-72h-2v-23h-2l4 -12h-6v-12h4l3 -12l3 -3l-2 -9h-2c0 -0.666992 7 -21 21 -61h12v-24h12v-24h12v-12h12v-12h13v-12h24v-12h-73v12h-24v12h-12v12h-25v12h-12v24h-12v12h-12v24h-12v37h-12c0 0.666992 -12 49 -36 145h12v24h12v12
+h12v12l2 -1v12h25z" />
+    <glyph glyph-name="a" unicode="a" horiz-adv-x="651" 
+d="M306 84v8h34v8h25v9h8v8h17v8h16v9h9v8h8v92h-75v-8h-75v-9h-34v-8h-17v-8h-8v-9h-8v-8h-9v-67h9v-8h8v-9h8v-8h26v-8h58zM231 510h159v-8h33v-9h25v-8h9v-8h16v-9h9v-8h16v-9h9v-16h8v-9h8v-16h9v-17h8v-33h9v-285h8v-50h8v-17h-117v9h-8v25h-8v8h-9v-8h-17v-9h-16v-8
+h-25v-8h-25v-9h-42v-8h-84v8h-42v9h-16v8h-17v8h-17v9h-8v8h-9v9h-8v8h-8v17h-9v16h-8v92h8v17h9v17h8v8h8v8h9v9h8v8h17v9h8v8h25v8h25v9h34v8h83v8h109v34h-8v25h-9v17h-8v8h-17v8h-8v9h-25v8h-117v-8h-42v-9h-33v-8h-17v-8h-25v92h8v8h25v8h42v9h42v8z" />
+    <glyph glyph-name="b" unicode="b" horiz-adv-x="691" 
+d="M380 100v8h25v9h17v8h8v8h9v9h8v8h8v8h9v25h8v25h8v100h-8v34h-8v16h-9v9h-8v8h-8v8h-9v9h-16v8h-25v8h-109v-8h-25v-8h-16v-9h-17v-8h-17v-8h-8v-234h8v-8h17v-8h17v-9h33v-8h108zM314 508h116v-8h34v-8h16v-9h17v-8h17v-8h8v-9h8v-8h9v-8h8v-9h8v-8h9v-17h8v-8h8v-17h9
+v-25h8v-33h8v-142h-8v-25h-8v-25h-9v-16h-8v-9h-8v-16h-9v-9h-8v-8h-8v-8h-9v-9h-8v-8h-17v-8h-8v-9h-17v-8h-16v-8h-34v-9h-33v-8h-75v8h-50v9h-25v8h-17v8h-16v9h-17v-34h-117v9h-8v683h125v-242h8v9h9v8h16v8h17v9h25v8h42v8z" />
+    <glyph glyph-name="c" unicode="c" horiz-adv-x="598" 
+d="M499 139h9v-101h-9v-8h-25v-8h-33v-9h-50v-8h-109v8h-42v9h-25v8h-17v8h-16v9h-17v8h-8v9h-9v8h-8v8h-8v9h-9v8h-8v8h-9v17h-8v17h-8v16h-9v34h-8v150h8v26h9v25h8v8h8v17h9v8h8v17h9v8h8v8h17v9h8v8h17v9h16v8h17v8h25v9h34v8h167v-8h33v-9h25v-8h9v-92h-25v8h-34v9h-33
+v8h-109v-8h-25v-9h-25v-8h-8v-8h-9v-9h-8v-8h-9v-8h-8v-17h-8v-17h-9v-142h9v-17h8v-17h8v-8h9v-8h8v-9h9v-8h16v-8h34v-9h117v9h33v8h25v8h25v9z" />
+    <glyph glyph-name="d" unicode="d" horiz-adv-x="682" 
+d="M380 100v8h34v9h16v8h17v8h17v9h8v241h-8v9h-17v8h-33v8h-125v-8h-17v-8h-17v-9h-16v-8h-9v-17h-8v-8h-8v-17h-9v-33h-8v-92h8v-25h9v-25h8v-8h8v-17h17v-8h8v-8h17v-9h25v-8h83zM255 508h117v-8h33v-8h25v-9h17v-8h17v-8h8v233h125v-692h-108v9h-9v41h-16v-8h-9v-8h-8
+v-9h-17v-8h-16v-8h-25v-9h-50v-8h-92v8h-25v9h-25v8h-17v8h-8v9h-17v8h-8v8h-8v9h-9v8h-8v8h-8v17h-9v17h-8v16h-8v25h-9v42h-8v92h8v50h9v25h8v16h8v17h9v8h8v17h8v8h9v9h8v8h8v8h9v9h16v8h9v8h16v9h25v8h25v8z" />
+    <glyph glyph-name="e" unicode="e" horiz-adv-x="668" 
+d="M473 293v33h-8v34h-8v16h-9v9h-8v8h-8v8h-9v9h-17v8h-25v8h-75v-8h-25v-8h-17v-9h-8v-8h-17v-17h-8v-8h-9v-17h-8v-17h-8v-41h267zM549 134h16v-101h-8v-8h-34v-8h-33v-9h-50v-8h-134v8h-50v9h-34v8h-16v8h-17v9h-17v8h-8v9h-17v8h-8v8h-8v9h-9v16h-8v9h-9v16h-8v17h-8
+v25h-9v59h-8v50h8v58h9v34h8v17h8v16h9v9h8v16h9v9h8v8h8v8h9v9h16v8h9v9h16v8h17v8h25v9h34v8h142v-8h33v-9h17v-8h17v-8h16v-9h9v-8h8v-9h8v-8h9v-8h8v-9h9v-16h8v-9h8v-25h9v-25h8v-134h-8v9h-368v-42h8v-17h8v-8h9v-17h8v-8h17v-9h8v-8h17v-8h33v-9h151v9h33v8h34v8h17
+v9z" />
+    <glyph glyph-name="f" unicode="f" horiz-adv-x="563" 
+d="M296 700h171v-8h33v-98h-17v8h-40v8h-106v-8h-17v-8h-8v-8h-8v-24h-8v-82h155v-89h-155v-391h-114v391h-122v89h122v122h8v25h8v16h9v8h8v8h8v8h8v9h16v8h16v8h33v8z" />
+    <glyph glyph-name="g" unicode="g" horiz-adv-x="674" 
+d="M364 128v9h33v8h17v8h16v9h17v8h8v8h9v9h8v8h-8v183h8v9h-8v8h-17v8h-17v9h-25v8h-25v8h-75v-8h-33v-8h-17v-9h-8v-8h-8v-8h-9v-9h-8v-8h-8v-17h-9v-25h-8v-91h8v-34h9v-16h8v-17h8v-8h9v-9h8v-8h17v-8h33v-9h67zM139 -47h8v-8h17v-8h25v-9h25v-8h33v-8h117v8h33v8h17v9
+h8v8h8v8h9v9h8v16h8v17h9v42h8v50h-17v-9h-8v-8h-17v-8h-16v-9h-17v-8h-42v-8h-108v8h-33v8h-25v9h-17v8h-17v8h-8v9h-8v8h-9v8h-8v9h-8v16h-9v17h-8v17h-8v25h-9v41h-8v100h8v42h9v25h8v25h8v8h9v17h8v8h8v9h9v8h8v8h8v9h17v8h17v8h16v9h34v8h141v-8h34v-9h16v-8h25v-8h25
+v16h67v9h42v-517h-9v-25h-8v-25h-8v-17h-9v-16h-8v-9h-8v-8h-9v-8h-8v-9h-8v-8h-9v-8h-16v-9h-17v-8h-17v-8h-25v-9h-41v-8h-159v8h-41v9h-25v8h-25v92h-9v8h9v8z" />
+    <glyph glyph-name="h" unicode="h" horiz-adv-x="664" 
+d="M342 506h110v-8h25v-9h17v-8h17v-9h8v-8h8v-9h9v-8h8v-17h9v-17h8v-25h9v-34h8v-346h-110v-8h-8v8h-8v346h-9v17h-8v9h-9v8h-8v8h-17v9h-101v-9h-26v-8h-16v-8h-17v-9h-17v-8h-9v-9h-8v-8h-8v-346h-9v8h-101v-8h-9v8h-8v692h127v-253h8v8h17v9h17v8h17v9h16v8h34v9h34v8z
+" />
+    <glyph glyph-name="i" unicode="i" 
+d="M267 704h16v-8h34v-9h8v-8h8v-8h9v-75h-9v-9h-8v-8h-8v-8h-25v-9h-34v9h-25v8h-8v8h-8v9h-9v25h-8v25h8v25h9v8h8v8h8v9h34v8zM211 496h116v-492h-8v8h-100v-8h-8v8h-9v9h9v458h-9v8h9v9z" />
+    <glyph glyph-name="j" unicode="j" horiz-adv-x="605" 
+d="M137 125h12v-6h12v-6h11v-6h19v-6h23v-5h93v5h12v6h15v6h6l-3 6h6v6h6l-1 18h6v18h6v333h111v-351h-6l3 -24h-6l1 -25h-6l5 -5h-6l4 -14h-5v-6h-6l-3 -6h-6v-7h-7l-13 -6h-6v-5h-11v-6h-12v-6h-12v-6h-18v-6l-40 3v-6h-83v6h-41v6h-25v6h-17v6h-18v83zM411 686h16v-8h34
+v-9h8v-8h8v-8h9v-75h-9v-9h-8v-8h-8v-8h-25v-9h-34v9h-25v8h-8v8h-8v9h-9v25h-8v25h8v25h9v8h8v8h8v9h34v8z" />
+    <glyph glyph-name="k" unicode="k" horiz-adv-x="680" 
+d="M409 498h161v-9h-9v-8h-8v-9h-9v-8h-8v-9h-9v-8h-8v-8h-8v-9h-17v-8h-9v-9h-8v-8h-9v-9h-8v-8h-8v-8h-9v-9h-8v-8h-9v-9h-8v-8h-17v-9h-9v-8h-8v-9h-8v-8h-9v-8h-8v-17h8v-9h9v-17h8v-8h8v-8h9v-9h8v-8h9v-9h8v-17h9v-8h8v-8h9v-9h8v-8h8v-17h9v-9h8v-8h9v-8h8v-9h9v-17
+h8v-8h8v-9h9v-8h8v-9h9v-8h8v-17h9v-8h8v-9h8v-8h9v-9h-160v17h-9v9h-8v8h-9v9h-8v8h-9v8h-8v17h-8v9h-9v8h-8v9h-9v17h-8v8h-9v8h-8v9h-8v17h-9v8h-8v9h-9v8h-8v17h-9v8h-8v9h-8v-9h-9v-8h-8v-9h-9v-8h-17v-8h-8v-9h-8v-177h-9v8h-101v-8h-9v8h-8v692h127v-405h8v9h8v8h9v8
+h8v9h9v8h8v9h9v8h8v9h8v8h9v9h17v8h8v8h9v9h8v8h8v9h9v8h8v9h9v8h8v8h9v9h8v8h8v9h9v8h8v9z" />
+    <glyph glyph-name="l" unicode="l" 
+d="M309 4v8h-100v-8h-8v8h-9v9h9v488h-9v8h9l-4 209h123l-3 -722h-8z" />
+    <glyph glyph-name="m" unicode="m" horiz-adv-x="1038" 
+d="M133 493h119v-51h8v8h18v9h8v9h17v8h17v8h17v9h34v8h127v-8h17v-9h17v-8h17v-8h9v-9h8v-9h9v-8h8v-17h17v8h9v9h8v8h9v9h17v9h8v8h17v8h17v9h26v8h59v9h17v-9h60v-8h17v-9h17v-8h8v-8h9v-9h8v-9h9v-8h8v-17h9v-25h8v-34h9v-366h-128v331h-8v26h-9v17h-8v8h-9v9h-25v9h-68
+v-9h-26v-9h-17v-8h-17v-8h-8v-9h-9v-9h-8v-348h-127v340h-9v17h-9v17h-8v8h-9v9h-25v9h-68v-9h-26v-9h-16v-8h-18v-8h-8v-9h-17v-9h-9v-8h-8v-9h8v-110h-8v-221h-119v493z" />
+    <glyph glyph-name="n" unicode="n" 
+d="M499 409l9 -57v-348h-127v340h-9v17h-9v17h-8v8h-9v9h-25v9h-68v-9h-26v-9h-16v-8h-18v-8h-8v-9h-17v-9h-9v-8h-8v-9h8v-110h-8v-221h-119v493h119v-51h8v8h18v9h8v9h17v8h17v8h17v9h34v8h127v-8h17v-9h17v-8h17v-8h9v-9h8v-9h9v-8h8l11 -19l6 -18l9 -57zM509 176l-8 204
+l4 -28l2 -72zM507 234l-6 84zM136 502h18v-60h8v8h9v9h17v9h9v8h17v9h9v9h26v8h26v9l140 -6l67 -59l23 -94l3 -348h-127l-2 342c-0.666992 0 -11 20.333 -31 61h-82v-8h-26v-9h-17v-9h-17v-8h-9v-9h-9v-9h-8v-8h-9v-9h-9v-9h-8v-328h-130v9h9v475h-9v9h9v8h95v-8h8v8z" />
+    <glyph glyph-name="o" unicode="o" horiz-adv-x="707" 
+d="M373 92v8h41v9h17v8h17v8h8v9h9v8h8v17h8v17h9v25h8v108h-8v34h-9v17h-8v16h-8v9h-9v8h-8v8h-8v9h-26v8h-25v8h-67v-8h-33v-8h-17v-9h-16v-8h-9v-8h-8v-9h-9v-16h-8v-17h-8v-17h-9v-134h9v-25h8v-17h8v-8h9v-8h8v-9h9v-8h16v-8h17v-9h42v-8h42zM281 510h142v-8h33v-9h25
+v-8h17v-8h17v-9h16v-8h9v-9h8v-8h9v-8h8v-9h8v-8h9v-17h8v-16h8v-17h9v-17h8v-42h8v-108h-8v-34h-8v-25h-9v-17h-8v-16h-8v-9h-9v-16h-8v-9h-8v-8h-17v-8h-9v-9h-8v-8h-17v-9h-16v-8h-17v-8h-33v-9h-76v-8h-42v8h-58v9h-25v8h-25v8h-17v9h-17v8h-8v9h-17v8h-8v8h-8v9h-9v8
+h-8v17h-9v8h-8v25h-8v17h-9v33h-8v126h8v33h9v25h8v17h8v17h9v8h8v8h9v9h8v8h8v8h9v9h8v8h17v9h16v8h17v8h25v9h34v8z" />
+    <glyph glyph-name="p" unicode="p" horiz-adv-x="680" 
+d="M367 107v8h25v9h17v8h9v8h8v9h9v8h8v9h9v17h8v33h8v102h-8v25h-8v17h-9v17h-8v8h-9v8h-8v9h-17v8h-17v9h-110v-9h-25v-8h-17v-9h-17v-8h-16v-8h-9v-17h9v-211h-9v-9h9v-8h16v-8h26v-9h33v-8h93zM165 512h8v-9h9v-34h17v9h16v8h9v9h25v8h25v9h34v8h110v-8h34v-9h25v-8h17
+v-9h8v-8h9v-9h16v-16h9v-9h8v-8h9v-9h8v-17h9v-17h8v-25h8v-34h9v-126h-9v-42h-8v-26h-8v-16h-9v-9h-8v-17h-9v-8h-8v-9h-9v-8h-8v-8h-8v-9h-9v-8h-17v-9h-17v-8h-16v-9h-26v-8h-152v8h-25v9h-25v8h-17v9h-17v-9h9v-219h-127v692h59v-9h34v9z" />
+    <glyph glyph-name="q" unicode="q" horiz-adv-x="680" 
+d="M376 107v8h25v9h25v8h17v8h9v9h16v244h-8v9h-8v8h-26v9h-34v8h-84v-8h-34v-9h-8v-8h-17v-9h-8v-8h-9v-8h-8v-17h-9v-17h-8v-25h-8v-93h8v-34h8v-17h9v-17h8v-8h9v-9h8v-8h9v-8h16v-9h26v-8h76zM578 512h17v-692h-127v236h-8v-8h-17v-9h-17v-8h-17v-9h-25v-8h-42v-8h-51v8
+h-59v8h-25v9h-17v8h-17v9h-8v8h-9v9h-8v8h-9v8h-8v9h-8v17h-9v8h-8v17h-9v25h-8v26h-9v76h-8v33h8v59h9v34h8v17h9v17h8v8h9v17h8v9h8v8h9v8h8v9h17v8h9v9h17v8h16v9h34v8h143v-8h34v-9h26v-8h16v-9h17v9h9v8h42v9h34v-9h8v9z" />
+    <glyph glyph-name="r" unicode="r" 
+d="M218 501h18v-60h8v8h9v9h17v9h9v8h17v9h9v9h26v8h26v9h77v-86h-8v-9h8v-9h-86v-8h-26v-9h-17v-9h-17v-8h-9v-9h-9v-9h-8v-8h-9v-9h-9v-9h-8v-328h-130v9h9v475h-9v9h9v8h95v-8h8v8z" />
+    <glyph glyph-name="s" unicode="s" horiz-adv-x="574" 
+d="M72 128h26v-9h16v-9h26v-8h34v-8h68v-9h51v9h43v8h16v8h9v9h9v51h-9v8h-9v9h-16v9h-26v8h-26v8h-42v9h-34v9h-26v8h-25v8h-17v9h-8v9h-18v8h-8v8h-8v18h-9v16h-9v102h9v17h9v17h8v9h8v9h9v8h17v8h17v9h17v8h42v9h154v-9h42v-8h34v-9h17v-102h-9v9h-25v9h-26v8h-33v8h-136
+v-8h-18v-8h-8v-9h-8v-43h8v-8h8v-9h18v-8h34v-9h25v-8h34v-8h34v-9h25v-9h17v-8h17v-8h18v-9h8v-9h8v-8h9v-8h9v-9h8v-25h8v-94h-8v-17h-8v-17h-9v-8h-9v-9h-8v-9h-8v-8h-18v-8h-8v-9h-26v-9h-34v-8h-178v8h-51v9h-25v9h-26v102z" />
+    <glyph glyph-name="t" unicode="t" horiz-adv-x="568" 
+d="M476 132h19v-113h-19v-10h-38v-9h-179v9h-19v10h-19v9h-10v10h-9v9h-10v10h-9v28h-9v38h-10v341h-104v94h104v142h142v-151h9v9h180v-85h10v-9h-199v-313h9v-19h10v-9h9v-9h19v-10h66v10h38v9h19v9z" />
+    <glyph glyph-name="u" unicode="u" horiz-adv-x="659" 
+d="M444 510h129v-501h-112v26h-9v17h-8v-9h-18v-8h-17v-9h-17v-9h-26v-8h-35v-9h-129v9h-35v8h-17v9h-9v9h-17v8h-9v9h-8v17h-9v17h-9v18h-8v34h-9v372h121v-9h9v-8h-9v-303h9v-34h8v-26h9v-9h17v-9h9v-8h43v-9h52v9h35v8h25v9h18v9h8v8h18v372z" />
+    <glyph glyph-name="v" unicode="v" horiz-adv-x="711" 
+d="M503 510h123v-26h-9v-18h-9v-26h-8v-18h-9v-26h-9v-18h-9v-26h-9v-18h-8v-17h-9v-27h-9v-17h-9v-27h-9v-17h-8v-27h-9v-17h-9v-18h-9v-26h-9v-18h-8v-26h-9v-18h-9v-26h-9v-18h-8v-17h-9v-18h-159v26h-8v18h-9v26h-9v27h-9v17h-9v27h-8v26h-9v18h-9v26h-9v26h-8v18h-9v26
+h-9v27h-9v17h-9v27h-8v17h-9v18h-9v26h-9v18h-9v26h-8v18h-9v17h-9v18h141v-9h8v-17h9v-27h9v-26h9v-27h9v-26h8v-26h9v-18h9v-26h9v-27h9v-17h8v-27h9v-17h9v-27h9v-26h9v-18h8v-17h9v26h9v18h9v26h9v18h8v26h9v18h9v26h9v27h9v17h8v27h9v17h9v26h9v18h8v26h9v18h9v26h9v18
+z" />
+    <glyph glyph-name="w" unicode="w" horiz-adv-x="1019" 
+d="M920 510h9v-26h-9v-27h-8v-26h-9v-18h-9v-26h-9v-26h-9v-18h-8v-26h-9v-27h-9v-17h-9v-27h-9v-26h-8v-18h-9v-26h-9v-27h-9v-26h-9v-17h-8v-27h-9v-26h-9v-18h-9v-26h-9v-9h-131v18h-9v26h-9v26h-9v18h-9v26h-8v27h-9v26h-9v26h-9v27h-9v26h-8v27h-9v26h-9v9h-9v-18h-9
+v-26h-8v-27h-9v-17h-9v-27h-9v-26h-8v-18h-9v-26h-9v-26h-9v-18h-9v-26h-8v-27h-9v-17h-9v-9h-123v9h-9v26h-9v27h-9v26h-8v18h-9v26h-9v26h-9v18h-8v26h-9v27h-9v26h-9v26h-9v18h-8v26h-9v27h-9v26h-9v26h-9v27h-8v26h-9v27h-9v26h9v-9h132v-26h8v-35h9v-27h9v-26h9v-35h9
+v-27h8v-26h9v-26h9v-36h9v-26h9v-26h8v-27h9v-17h9v26h9v26h9v18h8v26h9v27h9v26h9v27h9v26h8v26h9v27h9v26h9v26h9v27h8v26h9v9h18v-9h35v9h26v-9h9v9h9v-9h9v-26h8v-27h9v-26h9v-26h9v-27h9v-26h8v-26h9v-27h9v-35h9v-26h9v-27h8v-35h9v-26h9v17h9v27h9v26h8v26h9v18h9v26
+h9v27h8v26h9v27h9v26h9v26h9v27h8v26h9v26h9v18h18v-9h96v9z" />
+    <glyph glyph-name="x" unicode="x" horiz-adv-x="720" 
+d="M617 510h9v-18h-9v-8h-9v-9h-8v-9h-9v-18h-9v-8h-9v-9h-9v-9h-8v-9h-9v-17h-9v-9h-9v-9h-9v-9h-8v-8h-9v-9h-9v-18h-9v-9h-9v-8h-8v-9h-9v-9h-9v-9h-9v-17h-8v-27h8v-9h9v-8h9v-9h9v-9h8v-18h9v-8h9v-9h9v-9h9v-9h8v-17h9v-9h9v-9h9v-9h9v-8h8v-18h9v-9h9v-9h9v-8h9v-18
+h8v-9h9v-9h9v-8h9v-18h-159v9h-8v17h-9v9h-9v9h-9v18h-8v8h-9v9h-9v9h-9v18h-9v8h-8v9h-9v9h-9v17h-9v9h-9v9h-17v-9h-9v-17h-9v-9h-9v-9h-8v-9h-9v-17h-9v-9h-9v-9h-9v-9h-8v-17h-9v-9h-9v-9h-9v-17h-9v-9h-8v-9h-141v9h9v9h9v8h8v18h9v9h9v9h9v8h9v18h8v9h9v9h9v8h9v9h9
+v18h8v8h9v9h9v18h9v9h8v8h9v9h9v9h9v18h9v8h8v9h9v18h-9v9h-8v17h-9v9h-9v9h-9v9h-9v17h-8v9h-9v9h-9v17h-9v9h-8v9h-9v17h-9v9h-9v9h-9v18h-8v8h-9v18h-9v9h-9v9h-9v17h-8v9h158v-18h9v-8h8v-18h9v-9h9v-17h9v-9h9v-18h8v-9h9v-17h9v-18h9v-8h9v-18h8v9h9v9h9v8h9v9h9v9h8
+v17h9v9h9v9h9v9h9v9h8v8h9v18h9v9h9v9h8v8h9v9h27v9h96v-9h9v9z" />
+    <glyph glyph-name="y" unicode="y" horiz-adv-x="647" 
+d="M114 -53h25v-9h17v-8h26v-9h33v-8h144v8h17v9h16v8h17v9h9v16h8v17h9v26h8v84h-8v-9h-9v-8h-8v-8h-17v-9h-9v-8h-16v-9h-26v-8h-33v-9h-110v9h-34v8h-17v9h-17v8h-8v9h-8v8h-9v8h-8v9h-9v17h-8v17h-9v33h-8v363h127v-346h8v-17h8v-8h9v-9h8v-8h17v-8h110v8h25v8h17v9h8v8
+h17v9h9v8h8v329h-8v9h8v8h118v-540h-8v-25h-9v-25h-8v-9h-9v-17h-8v-8h-8v-9h-9v-8h-8v-8h-9v-9h-17v-8h-8v-9h-17v-8h-25v-9h-42v-8h-169v8h-42v9h-26v8h-16v93h-9v9z" />
+    <glyph glyph-name="z" unicode="z" horiz-adv-x="588" 
+d="M72 510h431v-88h-9v-9h-9v-9h-9v-17h-8v-9h-9v-9h-9v-8h-9v-18h-8v-9h-9v-9h-9v-8h-9v-18h-9v-9h-8v-9h-9v-8h-9v-18h-9v-9h-9v-9h-8v-17h-9v-9h-9v-9h-9v-9h-9v-17h-8v-9h-9v-9h-9v-9h-9v-17h-9v-9h-8v-9h-9v-8h-9v-9h264v-97h-431v79h9v18h9v9h8v8h9v9h9v9h9v17h9v9h8
+v9h9v9h9v17h9v9h9v9h8v9h9v17h9v9h9v9h8v9h9v17h9v9h9v9h9v9h8v17h9v9h9v9h9v9h9v17h8v9h9v9h9v9h9v8h9v9h-273v97z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="333" 
+ />
+    <hkern u1="A" u2="Y" k="92" />
+    <hkern u1="A" u2="X" k="30" />
+    <hkern u1="A" u2="W" k="78" />
+    <hkern u1="A" u2="V" k="90" />
+    <hkern u1="A" u2="T" k="58" />
+    <hkern u1="A" u2="F" k="36" />
+    <hkern u1="A" u2="A" k="8" />
+    <hkern u1="F" u2="A" k="42" />
+    <hkern u1="I" u2="O" k="8" />
+    <hkern u1="K" u2="O" k="20" />
+    <hkern u1="K" u2="A" k="28" />
+    <hkern u1="L" u2="Y" k="90" />
+    <hkern u1="L" u2="W" k="66" />
+    <hkern u1="L" u2="V" k="72" />
+    <hkern u1="L" u2="T" k="52" />
+    <hkern u1="N" u2="O" k="10" />
+    <hkern u1="O" u2="V" k="30" />
+    <hkern u1="O" u2="M" k="10" />
+    <hkern u1="P" u2="A" k="34" />
+    <hkern u1="R" u2="Y" k="60" />
+    <hkern u1="R" u2="V" k="50" />
+    <hkern u1="R" u2="T" k="30" />
+    <hkern u1="R" u2="O" k="12" />
+    <hkern u1="R" u2="A" k="22" />
+    <hkern u1="T" u2="o" k="54" />
+    <hkern u1="T" u2="e" k="45" />
+    <hkern u1="T" u2="a" k="48" />
+    <hkern u1="T" u2="O" k="35" />
+    <hkern u1="T" u2="A" k="66" />
+    <hkern u1="V" u2="a" k="56" />
+    <hkern u1="V" u2="V" k="6" />
+    <hkern u1="V" u2="O" k="42" />
+    <hkern u1="V" u2="A" k="92" />
+    <hkern u1="W" u2="a" k="44" />
+    <hkern u1="W" u2="W" k="6" />
+    <hkern u1="W" u2="O" k="30" />
+    <hkern u1="W" u2="A" k="72" />
+    <hkern u1="X" u2="I" k="10" />
+    <hkern u1="Y" u2="o" k="72" />
+    <hkern u1="Y" u2="a" k="70" />
+    <hkern u1="Y" u2="O" k="48" />
+    <hkern u1="Y" u2="A" k="96" />
+    <hkern u1="r" u2="o" k="24" />
+    <hkern u1="r" u2="e" k="18" />
+    <hkern u1="r" u2="a" k="18" />
+    <hkern u1="v" u2="a" k="30" />
+    <hkern u1="w" u2="a" k="22" />
+    <hkern u1="y" u2="a" k="34" />
+  </font>
+</defs></svg>
