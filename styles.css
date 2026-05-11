@@ -1,0 +1,7 @@
+
+@font-face {
+  font-family: 'Axiom Nova';
+  src: url('AxiomNova.svg#AxiomNova') format('svg');
+}
+body { font-family:'Axiom Nova', sans-serif; background:#0A0A0C; color:#E8E8EA; }
+h1{letter-spacing:0.05em;}

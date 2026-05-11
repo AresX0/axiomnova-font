@@ -1,0 +1,21 @@
+AxiomNova Font Package Contents
+
+Fonts:
+- AxiomNova-Regular.ttf / .otf / .sfd / .woff / .woff2
+- AxiomNova-Bold.ttf / .otf / .sfd / .woff / .woff2
+- AxiomNova-Italic.ttf / .otf / .sfd / .woff / .woff2
+- AxiomNova-BoldItalic.ttf / .otf / .sfd / .woff / .woff2
+- AxiomNova-Regular-kerned.ttf / .otf / .sfd
+
+Sources & Scripts:
+- All .sfd source files
+- Python scripts for building, cleaning, kerning, and analysis
+
+Docs:
+- README.md
+- LICENSE.txt
+
+Notes:
+- All files are open source under the SIL Open Font License 1.1
+- For web use, prefer the .woff or .woff2 files
+- For editing, use the .sfd files in FontForge
